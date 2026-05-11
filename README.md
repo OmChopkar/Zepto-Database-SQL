@@ -1,1 +1,1 @@
-# Zepto-Database-SQL
+# Zepto Databse Insights Using SQL
